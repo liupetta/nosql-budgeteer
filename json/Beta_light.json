@@ -1,0 +1,37 @@
+{
+    "collections": {
+       
+        "c_beta_1": {
+            "Or": {
+                "It": null,
+                "Py": null,
+                "Cu": null
+              }
+            
+        },
+        "c_beta_2": {
+            "It": {
+                "Or": {
+                    "Py": null,
+                    "Cu": null
+                  }
+            }
+        },
+        "c_beta_3": {
+            "Cr": null
+        },
+        "c_beta_4": {
+            "Pr": {
+                "Ct": null
+              }
+        },
+        "c_beta_5": {
+            "Su": null
+        }
+    
+
+    }
+   
+}    
+    
+
