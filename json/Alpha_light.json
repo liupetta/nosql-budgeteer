@@ -1,0 +1,21 @@
+{
+  "collections": {
+    "c_alpha_1": {
+      "Cu": {
+        "Or": {
+          "Cr": null,
+          "Py": null
+        }
+      }
+    },
+    "c_alpha_2": {
+      "Pr": {
+        "It": null,
+        "Su": null
+      }
+    },
+    "c_alpha_3": {
+      "Ct": null
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "collections": {
+    "c_full_1": {
+      "Cu": {
+        "Or": {
+          "Cr": null,
+          "It": {
+            "Pr": {
+              "Ct": null,
+              "Su": null
+            }
+          },
+          "Py": null
+        }
+      }
+    },
+    "c_full_2": {
+      "Or": {
+        "Cr": null,
+        "Cu": null,
+        "It": {
+          "Pr": {
+            "Ct": null,
+            "Su": null
+          }
+        },
+        "Py": null
+      }
+    },
+    "c_full_3": {
+      "It": {
+        "Or": {
+          "Cr": null,
+          "Cu": null,
+          "Py": null
+        },
+        "Pr": {
+          "Ct": null,
+          "Su": null
+        }
+      }
+    },
+    "c_full_4": {
+      "Pr": {
+        "Ct": null,
+        "It": {
+          "Or": {
+            "Cr": null,
+            "Cu": null,
+            "Py": null
+          }
+        },
+        "Su": null
+      }
+    },
+    "c_full_5": {
+      "Cr": {
+        "Or": {
+          "Cu": null,
+          "It": {
+            "Pr": {
+              "Ct": null,
+              "Su": null
+            }
+          },
+          "Py": null
+        }
+      }
+    },
+    "c_full_6": {
+      "Py": {
+        "Or": {
+          "Cr": null,
+          "Cu": null,
+          "It": {
+            "Pr": {
+              "Ct": null,
+              "Su": null
+            }
+          }
+        }
+      }
+    },
+    "c_full_7": {
+      "Su": {
+        "Pr": {
+          "Ct": null,
+          "It": {
+            "Or": {
+              "Cr": null,
+              "Cu": null,
+              "Py": null
+            }
+          }
+        }
+      }
+    },
+    "c_full_8": {
+      "Ct": {
+        "Pr": {
+          "It": {
+            "Or": {
+              "Cr": null,
+              "Cu": null,
+              "Py": null
+            }
+          },
+          "Su": null
+        }
+      }
+    }
+  }
+}
